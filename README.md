@@ -9,15 +9,14 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+Yehia;Java+Backend+Developer;Spring+Boot+Developer" 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+Yehia;Java+Backend+Developer" 
       alt="Typing SVG"
     />
   </a>
 </div>
 
-# Hi, I'm Mohamed 👋
+### Hi, I'm Mohamed 👋
 
-### ☕ Java Backend Developer
 
 I'm a Computer Science graduate passionate about backend development and building reliable, maintainable applications using **Java and Spring Boot**.
 
