@@ -1,8 +1,18 @@
-<div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" 
+    alt="GitHub 3D Icon" 
+    height="180"
+  />
 </div>
-<div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Mohamed Yehia;Java-Backend-Developer;Spring-Boot;" alt="Typing SVG" /></a>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Mohamed+Yehia;Java+Backend+Developer;Spring+Boot+Developer" 
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
 # Hi, I'm Mohamed 👋
