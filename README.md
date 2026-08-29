@@ -15,7 +15,7 @@
   </a>
 </div>
 
-### Hi, I'm Mohamed 👋
+### Hello! 👋
 
 
 I'm a Computer Science graduate passionate about backend development and building reliable, maintainable applications using **Java and Spring Boot**.
