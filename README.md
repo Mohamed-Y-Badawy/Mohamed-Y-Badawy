@@ -1,3 +1,10 @@
+<div align=center>
+    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
+</div>
+<div align=center>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=52F7EF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Mohamed Yehia;Java-Backend-Developer;Spring-Boot;" alt="Typing SVG" /></a>
+</div>
+
 # Hi, I'm Mohamed 👋
 
 ### ☕ Java Backend Developer
@@ -32,12 +39,12 @@ AI-powered note-taking application built with Flutter & Dart, featuring AI-based
 
 ---
 
-### 📊 GitHub Stats
+### 💻 What I Do
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Y-Badawy&show_icons=true&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Y-Badawy&layout=compact&hide_border=true" height="160"/>
-</p>
+- ☕ Build backend applications with Java & Spring Boot
+- 🔗 Design and develop RESTful APIs
+- 🗄️ Work with relational databases and JPA/Hibernate
+- 🧹 Focus on clean, maintainable code
 
 ---
 
