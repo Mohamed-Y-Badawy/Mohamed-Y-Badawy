@@ -60,11 +60,11 @@ AI-powered note-taking application built with Flutter & Dart, featuring AI-based
 ### 🤝 Connect With Me
 
 <p>
-  <a href="(https://www.linkedin.com/in/mohamed-y-badawy/)">
+  <a href="https://www.linkedin.com/in/mohamed-y-badawy/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   &nbsp;
-  <a href="(https://github.com/Mohamed-Y-Badawy)">
+  <a href="https://github.com/Mohamed-Y-Badawy" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40"/>
   </a>
 </p>
